@@ -185,7 +185,7 @@ a {
 }
 
 .hero-summary .item + .item {
-  margin-top: 22px; /* margin top start from block item 2 */
+  margin-top: 22px; /* start to margin top from the second position of div item */
 }
 
 .hero-summary .icon {
